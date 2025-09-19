@@ -10,9 +10,9 @@ day.csv (uncleaned) → Original daily-level dataset.
 
 hour.csv (uncleaned) → Original hourly-level dataset.
 
-day_cleaned.csv → Preprocessed daily-level dataset.
+day_cleaned.csv → Preprocessed daily-level dataset (No need to upload, just for reference).
 
-hour_cleaned.csv → Preprocessed hourly-level dataset.
+hour_cleaned.csv → Preprocessed hourly-level dataset (No need to upload, just for reference).
 
 Ｈｏｗ　ｔｏ　Ｕｓｅ
 
